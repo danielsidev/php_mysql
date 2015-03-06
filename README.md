@@ -1,5 +1,5 @@
 #PHP with MySQL
-A small application to show how to connect PHP with MYSQL and how create a CRUD generic
+A small web application to show how to connect PHP with MYSQL using PDO and how create a CRUD generic
 
 #Description
 A small web application in PHP 5. * OO to demonstrate how
